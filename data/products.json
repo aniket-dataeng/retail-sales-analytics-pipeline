@@ -1,0 +1,73 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 19.99,
+    "quantity": 150
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "quantity": 80
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 49.99,
+    "quantity": 40
+  },
+  {
+    "product_id": "P004",
+    "product_name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 29.99,
+    "quantity": 120
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Webcam",
+    "category": "Electronics",
+    "price": 39.99,
+    "quantity": 60
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 34.99,
+    "quantity": 70
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Portable SSD",
+    "category": "Storage",
+    "price": 89.99,
+    "quantity": 45
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Smartwatch",
+    "category": "Wearables",
+    "price": 129.99,
+    "quantity": 30
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Monitor 24\"",
+    "category": "Electronics",
+    "price": 159.99,
+    "quantity": 20
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Mechanical Pencil",
+    "category": "Stationery",
+    "price": 2.99,
+    "quantity": 500
+  }
+]
+
