@@ -1,0 +1,188 @@
+employee_id,first_name,last_name,title,store_id
+4e659ec0-963b-422c-b74d-3776c61a64ee,Rhonda,Rivera,Manager,c0dfce76-d1cb-4c68-9c35-b8faf705f226
+c8eee5f6-0fb5-4235-a20e-35095ce4a78c,Jonathan,Hale,Manager,c0dfce76-d1cb-4c68-9c35-b8faf705f226
+136b0d77-d111-46cd-82c1-bc753898d00b,Melissa,Perry,Manager,83141ec0-59d0-45dc-aeb7-5b66925c77f9
+672e3ea6-8cec-43a1-a163-76be70144d74,Kayla,Boone,Cashier,83141ec0-59d0-45dc-aeb7-5b66925c77f9
+001fdb38-9d30-4f02-b1a1-e51d88be9944,James,Banks,Sales Rep,83141ec0-59d0-45dc-aeb7-5b66925c77f9
+f6cdc008-52df-4ae1-be3d-18dc7dfd9035,Anne,Callahan,Manager,c2194e1b-e3fd-4fcb-9239-8905be67a94c
+fec2c1ad-2e16-4dc3-ba38-744b3efdd77c,Diana,Shea,Manager,c2194e1b-e3fd-4fcb-9239-8905be67a94c
+dda60b73-ed64-478e-95ad-fb0b949b8c71,Shawn,Greene,Sales Rep,c2194e1b-e3fd-4fcb-9239-8905be67a94c
+64dd1944-265a-4df3-bc9c-b3de357a7333,Chelsea,Logan,Cashier,c2194e1b-e3fd-4fcb-9239-8905be67a94c
+48c38176-8d02-4aa6-ac67-3130da843e6d,Mark,Howell,Manager,4123d7bf-1521-41bb-a800-d093897ff71f
+feb6c4f7-f8ed-407a-a6c7-15b9de67636e,Erin,Jones,Sales Rep,4123d7bf-1521-41bb-a800-d093897ff71f
+3f8b24e7-30d9-4fdc-a1e7-d090c531e0e6,Lauren,Walker,Assistant,4123d7bf-1521-41bb-a800-d093897ff71f
+14cd296c-1ecf-456f-8873-2408dcc42356,Annette,Harrison,Sales Rep,4123d7bf-1521-41bb-a800-d093897ff71f
+fe146aa6-f509-488c-96ff-3ae88d6a6ffd,Joseph,Welch,Sales Rep,4123d7bf-1521-41bb-a800-d093897ff71f
+9b8d4f45-421d-4397-ad3d-79e617ce89eb,Michael,Sanders,Sales Rep,f43e689d-29b7-43c7-ad8f-7885accc2adc
+26380376-401a-459e-843a-3f2a7e6ea7d5,Pedro,Howell,Manager,f43e689d-29b7-43c7-ad8f-7885accc2adc
+ea23c0f4-76b9-4734-b13f-67543932e95f,Alyssa,Schmidt,Manager,f43e689d-29b7-43c7-ad8f-7885accc2adc
+0fdccc67-2337-4899-aa06-7994b8238cb6,Andrew,Newman,Manager,f43e689d-29b7-43c7-ad8f-7885accc2adc
+f78f25ed-cb87-480c-9295-6d66fdc611ef,Rachel,Jordan,Manager,0a51a873-6844-4fce-a828-7cf550966143
+82164987-d446-4538-9093-5c52ab5da791,Tammy,Smith,Sales Rep,0a51a873-6844-4fce-a828-7cf550966143
+35abe1df-ed43-40b5-9acf-29c705777ec3,Misty,Castillo,Assistant,0a51a873-6844-4fce-a828-7cf550966143
+d0bec1e9-b448-4677-b4ce-8cb5cbf16ff2,Lauren,Sanders,Sales Rep,09eeb969-5918-4aac-b5c3-23c8d220eb65
+10597a89-4ea5-4476-9e26-f9d4ff4506fa,Dawn,Bond,Cashier,09eeb969-5918-4aac-b5c3-23c8d220eb65
+27e4c050-eb24-4517-a9eb-a01c10f55695,Amanda,Rodriguez,Manager,09eeb969-5918-4aac-b5c3-23c8d220eb65
+011324a8-ebb4-4f7c-ad21-23ad9428bf00,Tyler,Krueger,Sales Rep,09eeb969-5918-4aac-b5c3-23c8d220eb65
+070e73c4-80d5-4b52-9d2e-345e093ee12d,Ann,Boyd,Assistant,1f1ec22c-c336-4d31-909a-1eb4acbfd965
+5a30e64c-56ac-4f62-b4ee-e0e7ebbc70f3,Valerie,Donaldson,Cashier,1f1ec22c-c336-4d31-909a-1eb4acbfd965
+cae149d5-bac5-4006-abdb-0335eeebabd2,Tanya,Allen,Sales Rep,1f1ec22c-c336-4d31-909a-1eb4acbfd965
+ba8fec4a-e905-40b2-bc35-41032cf81fea,Janice,Clark,Cashier,1f1ec22c-c336-4d31-909a-1eb4acbfd965
+1267ebe6-ce13-4015-a39a-b963792945b2,Michael,Cruz,Assistant,de1e87f3-031f-4d03-a03d-6e88fbb91f53
+8e63c88d-55c2-43ba-ab95-139b4991882f,Joshua,Mitchell,Assistant,de1e87f3-031f-4d03-a03d-6e88fbb91f53
+0bc43a78-c1d0-4a80-9adc-63e1d06a3ab3,Christopher,Moore,Manager,de1e87f3-031f-4d03-a03d-6e88fbb91f53
+235541c1-087f-4354-95fd-5c43c2bf90d6,Sharon,Summers,Sales Rep,b48c40c9-83fd-4617-b2a3-bc59dc2cfc5d
+483fa01d-5d54-46cd-962c-3f9309fe941f,Tracy,Brown,Cashier,b48c40c9-83fd-4617-b2a3-bc59dc2cfc5d
+4131684c-50ac-494b-9c66-b8fb625d92c5,Sue,Miller,Cashier,b48c40c9-83fd-4617-b2a3-bc59dc2cfc5d
+9ab9e10e-420e-408a-ac75-c68d46aa18bf,Tiffany,Perry,Assistant,b48c40c9-83fd-4617-b2a3-bc59dc2cfc5d
+a611eb1f-be54-483d-8168-f401f80e527e,David,Garza,Assistant,b48c40c9-83fd-4617-b2a3-bc59dc2cfc5d
+55ff69f0-fba2-48f4-9928-a8acdce047ff,Jonathan,Martin,Assistant,2ead3eca-72f1-4860-9949-dc219a835a28
+269dd7e3-c906-41a2-a664-6c380a31ab11,Tina,Gilmore,Assistant,2ead3eca-72f1-4860-9949-dc219a835a28
+343072e0-5b0d-4864-8db2-c2e3ca679891,Amy,Reid,Assistant,2ead3eca-72f1-4860-9949-dc219a835a28
+95a7cd7a-268f-41ba-a4db-992bed337180,John,Johnson,Assistant,2ead3eca-72f1-4860-9949-dc219a835a28
+d7a8699c-e40b-4ce9-836c-5ddac592e447,Thomas,Klein,Cashier,2ead3eca-72f1-4860-9949-dc219a835a28
+59e4043a-922c-40b8-b987-2d5db72a977e,Dawn,Conrad,Assistant,70748b77-56e6-42e7-ad2e-4d37bae1fef1
+0c763d39-e5b4-4a3d-bfdc-b0ca187c54cc,Andrea,Glover,Manager,70748b77-56e6-42e7-ad2e-4d37bae1fef1
+eadc4752-907c-4561-933c-a1da8a4786c1,Daniel,Li,Cashier,70748b77-56e6-42e7-ad2e-4d37bae1fef1
+48b41405-bcab-42f9-a98d-f0d742fc2f01,Lindsay,Harper,Sales Rep,70748b77-56e6-42e7-ad2e-4d37bae1fef1
+5a8fd781-d84b-4a89-94a6-13292da79b23,Denise,Armstrong,Sales Rep,70748b77-56e6-42e7-ad2e-4d37bae1fef1
+2c5f3e5e-244c-4200-a084-05e897de3bdf,Karen,Vazquez,Cashier,ef39061d-838b-4204-b688-7aa35e5ff34c
+340cf857-8bb0-4231-97d4-0756bfd6ef96,Belinda,Campbell,Manager,ef39061d-838b-4204-b688-7aa35e5ff34c
+a232c309-3ace-45e3-ac1e-734edcb63c6b,Laura,Pacheco,Manager,ef39061d-838b-4204-b688-7aa35e5ff34c
+51b6c23d-a435-4279-b0d7-dd673d779fbd,Karina,Martinez,Cashier,ef39061d-838b-4204-b688-7aa35e5ff34c
+d50cc5f4-9488-4dc7-bb3b-a2aabaac6043,Kyle,Fuller,Sales Rep,42168a5a-a634-4bf6-9266-6cfca54e79ed
+d5bad2c3-3164-4c20-869d-543fb952c9ca,Kayla,Jackson,Cashier,42168a5a-a634-4bf6-9266-6cfca54e79ed
+d4cd4a6d-079c-4e75-a110-43bd99ed3a17,Suzanne,Sutton,Manager,42168a5a-a634-4bf6-9266-6cfca54e79ed
+c796fcc5-4527-45e0-b3ca-3e90b1809c9b,Cole,Mcdaniel,Assistant,42168a5a-a634-4bf6-9266-6cfca54e79ed
+4596a51e-470b-4e93-858b-59f3ddea2fb7,Amanda,Smith,Cashier,42168a5a-a634-4bf6-9266-6cfca54e79ed
+3add4371-e681-4ae2-a011-79265d0f891b,Jacqueline,Hart,Assistant,d8561463-a492-487a-b2fa-b2164b4cb084
+36ef22f7-52de-4464-a009-1797cfb8edd3,Robert,Nunez,Manager,d8561463-a492-487a-b2fa-b2164b4cb084
+54f720aa-62a3-4a66-af10-51ad660cb297,Steven,Walker,Cashier,d8561463-a492-487a-b2fa-b2164b4cb084
+eeec5eb5-ee6f-4352-bebb-78694a3090fb,Paul,Torres,Cashier,d8561463-a492-487a-b2fa-b2164b4cb084
+b2a9cb41-b925-462f-aee7-147bf2a2cc77,Angelica,Yates,Assistant,d8561463-a492-487a-b2fa-b2164b4cb084
+627b5d9d-fc09-46ee-a48d-7f94767fbdbf,Amy,Moore,Manager,4347ec13-ef6c-4248-bb28-b7c37321ed86
+160482dc-ee90-439b-acaa-7e9d6fe212dd,Heather,Simpson,Cashier,4347ec13-ef6c-4248-bb28-b7c37321ed86
+062769cd-a021-4612-aef7-d1847b2f8321,Caroline,Carpenter,Cashier,4347ec13-ef6c-4248-bb28-b7c37321ed86
+08c5c72b-92d6-4b51-bb99-bc3ddb2f7a94,Jennifer,Payne,Sales Rep,4347ec13-ef6c-4248-bb28-b7c37321ed86
+9b2019f0-2c50-4b94-bc1e-7bd78eb593bc,Travis,Davis,Assistant,4347ec13-ef6c-4248-bb28-b7c37321ed86
+2e74a68e-006b-4750-a30e-f16e2fa2f6dc,Meredith,Castro,Assistant,c62aab4d-38e6-4c5f-8139-228342eacc80
+91051aab-9df6-4e97-9fc1-b8ef44d4a9ac,Harold,Parker,Cashier,c62aab4d-38e6-4c5f-8139-228342eacc80
+a126cb90-aa7e-45b4-94e7-a7747bf3ef89,Stephen,Ortega,Cashier,c62aab4d-38e6-4c5f-8139-228342eacc80
+af8d6a11-191b-4860-85a0-0e3f4ccb8b09,Heather,Douglas,Manager,c62aab4d-38e6-4c5f-8139-228342eacc80
+5ef2e0de-cf52-4230-839b-1960a54c4ce7,Abigail,Nelson,Assistant,10ef4534-e9b6-4cd6-b925-dedc333dea95
+6b8761fc-28e4-4663-b346-5d81fb09898e,Charles,Hughes,Assistant,10ef4534-e9b6-4cd6-b925-dedc333dea95
+446c2708-a234-4342-9830-dcca3b77a156,Elizabeth,Kennedy,Assistant,10ef4534-e9b6-4cd6-b925-dedc333dea95
+53111c2a-126b-405b-b822-0ac0c0a0e7a4,Teresa,Diaz,Assistant,10ef4534-e9b6-4cd6-b925-dedc333dea95
+a6ec4364-7c7f-44df-926e-fcbb1c0250e8,Jessica,Stewart,Sales Rep,fc77baea-334f-451d-ac78-ce805040fb06
+ac671729-5b8e-44fe-a888-69c637c2b76a,Kenneth,Ryan,Sales Rep,fc77baea-334f-451d-ac78-ce805040fb06
+af3aab34-f272-492d-95d4-4078aec0077e,Robert,Romero,Assistant,fc77baea-334f-451d-ac78-ce805040fb06
+f2be72d0-b549-4610-919d-4e6f4fcc4f38,Russell,Martin,Assistant,fc77baea-334f-451d-ac78-ce805040fb06
+df66c955-7ebf-4065-9ae2-7b1fc12d6758,Ian,Jones,Manager,571ff491-eb1a-4d5c-9a62-b1c5af7a3f07
+a68b0106-952e-4174-94b4-3017e92b3ef4,Robert,Hunter,Cashier,571ff491-eb1a-4d5c-9a62-b1c5af7a3f07
+e8c27320-0eea-42a5-9c95-7ec98f0abc9a,John,Myers,Cashier,e59ad47f-b73f-43fc-8f9b-9660d3372e5c
+27836f7c-c06e-4f05-9353-db6847ecee68,Samantha,Wang,Cashier,e59ad47f-b73f-43fc-8f9b-9660d3372e5c
+0aef45c3-5b6c-4617-b34b-3708f6fd2dbb,Martha,Hughes,Manager,e59ad47f-b73f-43fc-8f9b-9660d3372e5c
+cbb9b560-bf46-46ca-9661-6c2be1494620,Brian,Smith,Manager,f3f4d6ef-19bc-4d34-9298-499ada796dc4
+cb68160f-1020-4737-84da-e4d2f07e448c,John,Bauer,Sales Rep,f3f4d6ef-19bc-4d34-9298-499ada796dc4
+8175164a-f1b6-4586-96b9-456e7a35d0c2,Mary,Lucas,Manager,493fc6d0-3cf4-4c1c-b615-2f96c3acd066
+e8a5fe96-c75e-4719-908b-354c705be726,Rebecca,Hale,Assistant,493fc6d0-3cf4-4c1c-b615-2f96c3acd066
+568f0346-faae-40db-8d66-d290da069712,Mikayla,Mooney,Cashier,493fc6d0-3cf4-4c1c-b615-2f96c3acd066
+37cc75ca-fd6c-404f-a8ef-ba14fd2912ca,Brenda,Smith,Manager,493fc6d0-3cf4-4c1c-b615-2f96c3acd066
+a4480f33-abee-4f71-bc84-a08c22338b8d,Joseph,Stewart,Manager,af7e01c6-8293-46d6-9521-b889836eaf61
+aa0208ed-1cab-4ffc-8069-27b77502fa59,Daniel,Allen,Manager,af7e01c6-8293-46d6-9521-b889836eaf61
+a14c6d28-b262-4923-9b9f-4d2f470fda40,Benjamin,Horn,Assistant,af7e01c6-8293-46d6-9521-b889836eaf61
+0da4b920-40fa-47b4-a02a-a340c86a07e4,Alyssa,Lewis,Sales Rep,af7e01c6-8293-46d6-9521-b889836eaf61
+24a5a8ae-2bc0-4d21-af6c-0481ec65793d,Gary,Kelly,Manager,dd3ae5bc-5250-40f4-9279-5e3941f00edc
+b2fd7567-249a-4ecc-bda2-309fb94044b0,Ronald,Cook,Manager,dd3ae5bc-5250-40f4-9279-5e3941f00edc
+4ca75bbd-08aa-471a-9c77-584ae48e284c,Juan,Swanson,Cashier,dd3ae5bc-5250-40f4-9279-5e3941f00edc
+7aaed35f-abdc-4b58-9b6f-4c9bd07494d5,Rachel,Edwards,Cashier,1d9420db-caa9-4e97-acd5-32fee7f29b41
+60d55b06-2430-48c5-be16-1ed9a80ca583,Ruben,Brown,Cashier,1d9420db-caa9-4e97-acd5-32fee7f29b41
+b355a606-d230-472d-893c-0098449d7586,Chad,Raymond,Cashier,1d9420db-caa9-4e97-acd5-32fee7f29b41
+bb4b5716-7034-450f-81ce-1c25d430f2a5,Tammy,Casey,Cashier,1d9420db-caa9-4e97-acd5-32fee7f29b41
+065af80c-29c6-46ca-9b7d-e81c32d5970e,Donna,Davis,Manager,8dd319a5-f37e-475b-98ae-c885ad865af3
+07fa13f0-8442-42f5-b42f-5758dc1cf817,Dawn,Anderson,Cashier,8dd319a5-f37e-475b-98ae-c885ad865af3
+3b675359-9fac-4244-aa10-a6b064cb7107,Ian,Martin,Cashier,bf22d006-5d02-4061-830e-3f825db17898
+e036b99d-3a28-4005-b06c-ae0eab9acf27,Rachel,Dudley,Manager,bf22d006-5d02-4061-830e-3f825db17898
+1cc55655-a1d6-4461-9c2c-b96eca7c1e62,Kevin,Ward,Manager,bf22d006-5d02-4061-830e-3f825db17898
+3702fdee-39dc-48a2-9ebe-0c541b4c1b9b,Earl,Case,Assistant,db8c728d-874d-4074-9058-aebd3b3eb608
+13b8cbec-fc5a-4140-a668-22d9d815039a,Phillip,Hopkins,Cashier,db8c728d-874d-4074-9058-aebd3b3eb608
+a48200bc-b6c7-47e8-b09d-085510504284,David,Monroe,Cashier,db8c728d-874d-4074-9058-aebd3b3eb608
+99b461a6-4762-4e33-81ca-a28a53c69609,Shelia,Harris,Sales Rep,db8c728d-874d-4074-9058-aebd3b3eb608
+4977d29b-47e3-41c7-af31-0eb3ed3dcb4e,Jamie,Wilcox,Cashier,f13307fe-fb8d-4430-bc12-fdbfb75232e5
+ca3bd0e0-362c-43a2-943c-d7f84b0100c3,Cassandra,Johnson,Sales Rep,f13307fe-fb8d-4430-bc12-fdbfb75232e5
+d3363b8c-0dba-45eb-a05c-e7a73ceafd2f,Loretta,Weaver,Assistant,f13307fe-fb8d-4430-bc12-fdbfb75232e5
+c64ee6ea-b5c6-4707-8e56-1290d17de310,Allen,Bolton,Sales Rep,f13307fe-fb8d-4430-bc12-fdbfb75232e5
+4b5d4439-a1e6-41fa-88ce-1dd65e93ea18,Susan,Butler,Cashier,fb325934-f917-4795-8e24-2c0cddf57c61
+66e48abb-1d67-4564-8f23-e13a0a75460c,Brandon,Schwartz,Cashier,fb325934-f917-4795-8e24-2c0cddf57c61
+e5e384e7-d719-41ba-9adf-11bd12be1d34,Lindsey,Bond,Sales Rep,fb325934-f917-4795-8e24-2c0cddf57c61
+f14b53bc-510f-44e3-a06d-d3d410128c25,Alicia,Jennings,Manager,fb325934-f917-4795-8e24-2c0cddf57c61
+ae7d97e7-0935-49b3-b6bb-c392cf1d95de,James,Wiley,Manager,013f5132-8dbe-4815-9f80-7929b52b8377
+7fd267ca-23ea-4b6d-8271-1e97490b3cd0,Lindsey,Weaver,Cashier,013f5132-8dbe-4815-9f80-7929b52b8377
+4a0f311c-3990-4b45-976e-e419c619d7ab,Laurie,Walker,Cashier,013f5132-8dbe-4815-9f80-7929b52b8377
+c93bad15-6026-4d95-87fb-969d23ff68ed,Cynthia,Watts,Sales Rep,013f5132-8dbe-4815-9f80-7929b52b8377
+777835b0-87f3-46d1-b842-e515d8ab96b8,Edgar,Williamson,Manager,c0b406b7-b6c6-462a-a4f5-098a5d2fc702
+2f2fa4db-904a-498a-98e8-9673980affc1,Jessica,Gonzales,Cashier,c0b406b7-b6c6-462a-a4f5-098a5d2fc702
+fe802fc1-0065-4efd-bb50-90afdd45a2fa,Randy,Vazquez,Cashier,cadf78f4-c16f-4322-9b41-a632ef5ade45
+f75ca1f9-584a-4c3f-b4d0-6288ee2ece96,Steven,Brown,Manager,cadf78f4-c16f-4322-9b41-a632ef5ade45
+3f9a45c7-e9e6-45a9-b645-d85ef1ab2fe7,William,Davis,Assistant,cadf78f4-c16f-4322-9b41-a632ef5ade45
+f2c8ad6f-6d85-4dba-9348-9485fca2345e,Laura,Merritt,Cashier,cadf78f4-c16f-4322-9b41-a632ef5ade45
+8aecece7-075b-4b71-b751-45d51b637eb8,Denise,Smith,Cashier,cadf78f4-c16f-4322-9b41-a632ef5ade45
+6acbcf22-564d-476e-8fd8-4d1cd0c09ea5,Johnny,Lopez,Cashier,d9da1aac-4c5c-4210-a870-74ea42c4d41e
+15e69103-14e9-4d97-ac1a-98ff3a361b60,Gary,Davidson,Sales Rep,d9da1aac-4c5c-4210-a870-74ea42c4d41e
+d2ebb4a6-f121-4df7-8854-3f1c315898c9,Angela,Johnson,Manager,d9da1aac-4c5c-4210-a870-74ea42c4d41e
+b4276a27-1d54-4ddd-a3f0-7c0a3b676fd1,Mark,Jones,Manager,d9da1aac-4c5c-4210-a870-74ea42c4d41e
+41dae11a-62ef-430e-9f23-865b66d39952,Michael,Zhang,Sales Rep,0193f1dc-63ad-46ef-9add-11fddb186c66
+65ab7d3b-c9a9-496b-afc1-dcc86dbf9591,Richard,Jordan,Sales Rep,0193f1dc-63ad-46ef-9add-11fddb186c66
+41657c1f-29cf-4680-b58c-dbbf8d6072e8,Ricky,Walker,Cashier,ebabed5d-7420-4b1c-b25d-dffce248e886
+6f374732-3d9f-47da-9355-b543e58a7088,Michael,Logan,Cashier,ebabed5d-7420-4b1c-b25d-dffce248e886
+7499ce0d-9e41-4ad0-9184-915b0505f971,Calvin,Campbell,Manager,ebabed5d-7420-4b1c-b25d-dffce248e886
+756ffb7c-a692-4b5d-b3e2-1669299885f6,Joseph,Nichols,Sales Rep,ebabed5d-7420-4b1c-b25d-dffce248e886
+b0f91a17-04c6-4b8d-9966-239d628d7e0a,Norma,Vaughn,Manager,ebabed5d-7420-4b1c-b25d-dffce248e886
+80260465-bc71-4e31-a36e-0a68c06ec04e,Austin,Knox,Cashier,29c99955-1aa8-4943-bf35-5821dfd29685
+62d0cc17-f627-476f-9fc4-893fd3c24932,Melissa,Wagner,Assistant,29c99955-1aa8-4943-bf35-5821dfd29685
+d3671ef6-d14c-49de-a0ec-0905f1c25e20,Tiffany,Stewart,Manager,8659c587-34a4-4d3c-a1e8-b2f13ba88546
+dec54ead-ff3f-4ed5-977d-5a49a77ab015,Kathryn,Valentine,Manager,8659c587-34a4-4d3c-a1e8-b2f13ba88546
+f1afa87e-4336-44be-a2eb-c0b3a43b237d,Christine,Cannon,Sales Rep,8659c587-34a4-4d3c-a1e8-b2f13ba88546
+74e6e16a-7057-4ca0-b4da-c5a3c6415d63,Taylor,Hernandez,Sales Rep,8659c587-34a4-4d3c-a1e8-b2f13ba88546
+82b7b814-e9e9-44c2-b325-0c0ab36a1f4c,Kathleen,Jones,Manager,8659c587-34a4-4d3c-a1e8-b2f13ba88546
+7566e074-c095-4e14-9f74-7546a2396719,Nicole,Tran,Cashier,4714184b-7bdd-430b-a036-50a836c26da8
+132c53b5-f4c7-49bf-917c-d27739bf6e98,Daniel,Phelps,Sales Rep,4714184b-7bdd-430b-a036-50a836c26da8
+71885b1b-1aaf-40d8-be3d-17169260ca9e,Maria,Parker,Assistant,4ae066ec-a7b3-4a2f-a697-1cd98d8a59bb
+99ff15f1-68af-48d1-ac87-d1e2fe17a02d,David,Russell,Sales Rep,4ae066ec-a7b3-4a2f-a697-1cd98d8a59bb
+eca0f9a6-6ec9-4382-a7e4-5a643084e2d1,Matthew,Simon,Assistant,4ae066ec-a7b3-4a2f-a697-1cd98d8a59bb
+00763fc2-df96-4bd4-a167-1160d2819f19,William,Garcia,Sales Rep,4ae066ec-a7b3-4a2f-a697-1cd98d8a59bb
+6f77a266-4126-4bae-bdd5-522c7a42ea1f,Diana,Campbell,Sales Rep,4ae066ec-a7b3-4a2f-a697-1cd98d8a59bb
+293c15c4-9465-4781-8c7a-d740d68a910a,Brian,Fleming,Manager,0410bbc7-abd6-4e8a-8af1-f2eaf56ab42f
+1ce4478f-f3c6-417a-a4dd-fbd94bc9383f,Vanessa,Roy,Sales Rep,0410bbc7-abd6-4e8a-8af1-f2eaf56ab42f
+050e5793-2508-4737-950c-57bc04198c3a,Erin,Johnson,Cashier,0410bbc7-abd6-4e8a-8af1-f2eaf56ab42f
+e31da48d-35f5-43ff-8bcf-85fc562fdf85,Ruben,Scott,Assistant,0410bbc7-abd6-4e8a-8af1-f2eaf56ab42f
+36fe6b2d-3f38-410a-8f18-5450c4c03dc9,Candace,Vargas,Cashier,b042efaf-d469-4618-9f8e-a448380cca2a
+4c3f4683-9f21-445f-8676-4750ea43a05c,Amy,King,Cashier,b042efaf-d469-4618-9f8e-a448380cca2a
+a382a5c5-759e-45e0-8236-827f83cf6e69,Donna,Rodriguez,Cashier,b042efaf-d469-4618-9f8e-a448380cca2a
+2fee04da-37e4-475d-9e57-33e18cd6621c,Ronald,Bishop,Assistant,b042efaf-d469-4618-9f8e-a448380cca2a
+6bb9dcb6-af98-42b3-83a0-5b6577d25f15,Stephen,Fields,Assistant,b042efaf-d469-4618-9f8e-a448380cca2a
+c5805b04-9ed8-46bf-9bf4-9492fe2d90bf,Anthony,Frazier,Cashier,d13d32f4-2c14-4b59-a43f-7d02770cd151
+c81e8b50-2680-4d58-b866-6bd1ad24b8bf,Laura,Douglas,Manager,d13d32f4-2c14-4b59-a43f-7d02770cd151
+7a45aa8c-de1b-4ad0-82b7-95d70844409b,Jennifer,Willis,Cashier,2e5fc5a7-dc59-4ba4-8b98-ebbacb5b9bea
+32ecdf0b-a7d1-49cd-88d8-791286a88fbf,Lisa,Mcmillan,Assistant,2e5fc5a7-dc59-4ba4-8b98-ebbacb5b9bea
+690da4a2-612b-4dc5-8bf0-f954dd0af4b1,Kimberly,Anderson,Sales Rep,2e5fc5a7-dc59-4ba4-8b98-ebbacb5b9bea
+8540e901-f59f-4600-976b-2781245e8f5c,Charles,Jenkins,Cashier,2e5fc5a7-dc59-4ba4-8b98-ebbacb5b9bea
+47f33548-c7a0-4b06-8db9-b4a3ca9f5e33,Brianna,Hammond,Manager,2e5fc5a7-dc59-4ba4-8b98-ebbacb5b9bea
+1dfd0d94-f1be-46d4-962a-d303689e7396,Christopher,Morton,Manager,77f2fe4e-275a-44e9-bf6f-4127271b4edf
+8e48757f-fd4d-451a-880d-7a35f5c5b95e,Maria,Bryan,Assistant,77f2fe4e-275a-44e9-bf6f-4127271b4edf
+fc580501-0924-4677-b60e-a4593d60530a,Amber,Brown,Manager,77f2fe4e-275a-44e9-bf6f-4127271b4edf
+d3e6be8c-ab7f-4631-b07e-069057cccc85,Melissa,Huynh,Sales Rep,28d8f8ea-b48f-43b5-bc57-514a109fdd8f
+30062847-b82f-4db6-9b56-a5b3ab8318d5,Dustin,Duffy,Manager,28d8f8ea-b48f-43b5-bc57-514a109fdd8f
+6b94a590-d670-402d-b799-061c6d33ebe3,Jacqueline,Cunningham,Assistant,28d8f8ea-b48f-43b5-bc57-514a109fdd8f
+08881e87-87b3-4d6d-9658-ce956d7a163a,Cynthia,Schultz,Assistant,865e6209-102d-472b-bf7e-ec9a0c87c2d3
+b7ce5f92-971a-42d3-b6b3-e5d91f5b0a41,Jamie,Morris,Manager,865e6209-102d-472b-bf7e-ec9a0c87c2d3
+181be934-dc09-4916-b10a-9b9813750190,Joshua,Bailey,Sales Rep,865e6209-102d-472b-bf7e-ec9a0c87c2d3
+7849214d-3c34-44c9-82cf-89a52b4be9f6,Carolyn,Watkins,Manager,865e6209-102d-472b-bf7e-ec9a0c87c2d3
+8e2f1eb8-8a3b-4930-bb4c-d1ed8354b001,Frank,Thompson,Assistant,95c37009-206d-4818-8bb0-a6879914edcc
+ce65e58c-6247-4510-a3d6-47cbcf35efa2,Karen,Mcneil,Assistant,95c37009-206d-4818-8bb0-a6879914edcc
+c3f2bf57-2f3f-41bf-be45-7ef59d2a852f,Benjamin,Reeves,Cashier,95c37009-206d-4818-8bb0-a6879914edcc
+3b9f95c4-32bf-4880-a62c-ac72fcfdb035,Brian,Andrews,Cashier,989f53c0-b794-4747-a647-65f23ff1e74f
+6d543d0f-4142-4396-8994-acedbea6309a,Pamela,Willis,Cashier,989f53c0-b794-4747-a647-65f23ff1e74f
+d4a9afef-61a5-49a3-a870-b380945ac460,Jennifer,Barnett,Sales Rep,989f53c0-b794-4747-a647-65f23ff1e74f
+35035cc2-0e00-4cf0-ba5f-e1f0c81ca437,John,Woods,Assistant,989f53c0-b794-4747-a647-65f23ff1e74f
+5d39522d-69a1-4488-b5e5-5aa83b54087f,Javier,Calderon,Cashier,989f53c0-b794-4747-a647-65f23ff1e74f
