@@ -1,12 +1,12 @@
 CREATE OR REPLACE SCHEMA RETAIL_LANDING;
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_PRODUCTS (
-    product_id STRING,
-    product_name STRING,
-    category_id STRING,
-    price FLOAT,
-    quantity INT,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "product_id" STRING,
+    "product_name" STRING,
+    "category" STRING,
+    "price" FLOAT,
+    "quantity" INT,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_CUSTOMERS (

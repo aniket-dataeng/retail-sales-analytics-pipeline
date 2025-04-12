@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 import json
+from snowflake.connector import *
+from snowflake.connector.pandas_tools import write_pandas
 
 class BaseLoader:
     def __init__(self):
@@ -20,12 +22,21 @@ class BaseLoader:
             df = df.astype(schema)
         except Exception as e:
             print(f"Data doesnt confirm to schema: {e}")
-
+            
         return df
         
-    def insert_into_snowflake(self, connector, df):
+    def insert_into_snowflake(self, connector, df, table, schema):
         self.conn = connector
         self.df = df
+        self.table = table
+        self.schema = schema
         
-        print(self.conn)
-        print(self.df.head(3))
+        success, nchunks, nrows, output = write_pandas(
+            conn=self.conn,
+            df=self.df,
+            table_name=table,
+            schema=schema  
+        )
+
+        print(f"{success}, {nrows} loaded into table")
+        
