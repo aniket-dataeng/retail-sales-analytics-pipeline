@@ -1,73 +1,1402 @@
 [
   {
-    "product_id": "P001",
-    "product_name": "Wireless Mouse",
-    "category": "Electronics",
-    "price": 19.99,
-    "quantity": 150
+    "product_id": "191ea4ba-3642-4fb1-ba32-b14318a94908",
+    "product_name": "Compact Generic Product",
+    "category": "Shoes",
+    "price": 125.82,
+    "quantity": 92
   },
   {
-    "product_id": "P002",
-    "product_name": "Bluetooth Headphones",
-    "category": "Electronics",
-    "price": 59.99,
-    "quantity": 80
+    "product_id": "18dcd00f-826e-4d94-8bae-ace44ca27c99",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 384.6,
+    "quantity": 245
   },
   {
-    "product_id": "P003",
-    "product_name": "Gaming Keyboard",
+    "product_id": "16b61b13-2de6-4576-bd27-28284a8f32c4",
+    "product_name": "Smart Camera",
     "category": "Electronics",
-    "price": 49.99,
+    "price": 492.41,
+    "quantity": 390
+  },
+  {
+    "product_id": "88822b6f-7dd9-4eb3-93b4-8bc154e938a5",
+    "product_name": "Bestselling Travel Guide",
+    "category": "Books",
+    "price": 201.33,
+    "quantity": 143
+  },
+  {
+    "product_id": "86c01631-346e-4274-99f5-763af6711b50",
+    "product_name": "Bestselling Travel Guide",
+    "category": "Books",
+    "price": 33.11,
+    "quantity": 247
+  },
+  {
+    "product_id": "967b4cb9-fc7f-4f54-b438-2bb789e5d7d7",
+    "product_name": "Stylish Jacket",
+    "category": "Clothing",
+    "price": 455.32,
+    "quantity": 75
+  },
+  {
+    "product_id": "4c794305-fb5a-40c2-89d3-3a3898e66c7b",
+    "product_name": "Eco Generic Product",
+    "category": "Shoes",
+    "price": 84.06,
+    "quantity": 227
+  },
+  {
+    "product_id": "91038c76-eb2c-4573-bc86-2602ed3cb681",
+    "product_name": "Portable Laptop",
+    "category": "Electronics",
+    "price": 471.22,
+    "quantity": 192
+  },
+  {
+    "product_id": "fba89010-2664-4c50-9547-21d558999b3b",
+    "product_name": "Premium Generic Product",
+    "category": "Music",
+    "price": 187.35,
+    "quantity": 360
+  },
+  {
+    "product_id": "626c1f2a-dc80-4aad-a0a9-ab17fb909249",
+    "product_name": "Portable Laptop",
+    "category": "Electronics",
+    "price": 211.99,
+    "quantity": 56
+  },
+  {
+    "product_id": "0fd06792-18f2-4282-84cf-c25572cf3522",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 474.7,
+    "quantity": 160
+  },
+  {
+    "product_id": "e3cbdcbd-2a5a-45ea-9306-296f02e578bd",
+    "product_name": "Compact Generic Product",
+    "category": "Grocery",
+    "price": 288.14,
+    "quantity": 347
+  },
+  {
+    "product_id": "ea0c085c-5038-475f-b818-d994af539f6d",
+    "product_name": "Premium Generic Product",
+    "category": "Office",
+    "price": 180.81,
+    "quantity": 72
+  },
+  {
+    "product_id": "512454f9-acd5-476d-b729-ba28d45e5e74",
+    "product_name": "Thrilling Cookbook",
+    "category": "Books",
+    "price": 380.85,
+    "quantity": 163
+  },
+  {
+    "product_id": "bcb2a484-f5eb-4915-b550-4d1c685ef618",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 111.34,
+    "quantity": 144
+  },
+  {
+    "product_id": "23b2d0be-3dcd-4ec3-b9f0-f91ab0677127",
+    "product_name": "Natural Foundation",
+    "category": "Beauty",
+    "price": 476.78,
+    "quantity": 89
+  },
+  {
+    "product_id": "e5f632d3-ce38-49fe-8b6f-cd2d25648e03",
+    "product_name": "Classic Generic Product",
+    "category": "Music",
+    "price": 24.92,
+    "quantity": 391
+  },
+  {
+    "product_id": "d07f1130-c7cd-4f2d-b249-3e7dd7724890",
+    "product_name": "Heavy-duty Treadmill",
+    "category": "Fitness",
+    "price": 414.58,
+    "quantity": 74
+  },
+  {
+    "product_id": "8e76b019-5318-40d6-999a-1484bf1bd6c7",
+    "product_name": "Compact Generic Product",
+    "category": "Toys",
+    "price": 326.32,
+    "quantity": 325
+  },
+  {
+    "product_id": "503bdff8-3233-4f9e-aacc-a188961607d1",
+    "product_name": "Silky Face Cream",
+    "category": "Beauty",
+    "price": 164.37,
+    "quantity": 266
+  },
+  {
+    "product_id": "b8414ede-d317-472a-a792-a05098dd2f79",
+    "product_name": "Adjustable Resistance Bands",
+    "category": "Fitness",
+    "price": 344.76,
+    "quantity": 357
+  },
+  {
+    "product_id": "f77c15cf-f11d-4e5e-ac29-162ab7bfee90",
+    "product_name": "Compact Generic Product",
+    "category": "Shoes",
+    "price": 375.89,
+    "quantity": 145
+  },
+  {
+    "product_id": "99e7479e-80a5-4bc5-8733-172650b4dce0",
+    "product_name": "Heavy-duty Yoga Mat",
+    "category": "Fitness",
+    "price": 361.91,
+    "quantity": 85
+  },
+  {
+    "product_id": "efb74123-7768-4058-819b-c3d91c6ea663",
+    "product_name": "Smart Camera",
+    "category": "Electronics",
+    "price": 446.31,
+    "quantity": 335
+  },
+  {
+    "product_id": "1fa47e34-d537-48c7-8e05-06604d969fc2",
+    "product_name": "Thrilling Mystery Novel",
+    "category": "Books",
+    "price": 493.82,
+    "quantity": 456
+  },
+  {
+    "product_id": "eb4a7e2a-3f69-4c50-b1eb-6cd79d0c0e14",
+    "product_name": "Classic Generic Product",
+    "category": "Grocery",
+    "price": 252.25,
+    "quantity": 22
+  },
+  {
+    "product_id": "d8033212-b576-47a6-a70b-b39aef62e582",
+    "product_name": "Premium Generic Product",
+    "category": "Home Decor",
+    "price": 224.27,
+    "quantity": 259
+  },
+  {
+    "product_id": "55353db0-bff6-43c9-b59d-1bbf19eb68fc",
+    "product_name": "Durable Generic Product",
+    "category": "Grocery",
+    "price": 459.12,
+    "quantity": 13
+  },
+  {
+    "product_id": "40f39885-bf29-4f83-9469-a9145b5bea2f",
+    "product_name": "Eco Generic Product",
+    "category": "Shoes",
+    "price": 395.4,
+    "quantity": 229
+  },
+  {
+    "product_id": "33305d04-2dcc-4c8d-afde-457f14483825",
+    "product_name": "Adjustable Dumbbells",
+    "category": "Fitness",
+    "price": 156.3,
+    "quantity": 134
+  },
+  {
+    "product_id": "2fed86fd-a5a7-48c5-ac49-54e3ce391089",
+    "product_name": "Bestselling Self-Help Book",
+    "category": "Books",
+    "price": 86.1,
+    "quantity": 85
+  },
+  {
+    "product_id": "5c4ca81c-6fcb-444e-bb16-fbcb6fcbca8d",
+    "product_name": "Bluetooth Camera",
+    "category": "Electronics",
+    "price": 491.18,
+    "quantity": 116
+  },
+  {
+    "product_id": "8fc5ebf8-3514-4fe8-9534-6332e8e69abd",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 390.13,
+    "quantity": 130
+  },
+  {
+    "product_id": "cb850f52-5517-42f8-acc9-0c1cf73178b5",
+    "product_name": "Portable Monitor",
+    "category": "Electronics",
+    "price": 281.89,
+    "quantity": 75
+  },
+  {
+    "product_id": "1e912394-7856-4375-af3d-5dc2cf577e57",
+    "product_name": "Durable Generic Product",
+    "category": "Toys",
+    "price": 495.15,
+    "quantity": 165
+  },
+  {
+    "product_id": "59b7cb3a-0bdf-4205-9af0-1b0253e7f89f",
+    "product_name": "Thrilling Self-Help Book",
+    "category": "Books",
+    "price": 364.78,
+    "quantity": 38
+  },
+  {
+    "product_id": "e8564d01-ebb8-4149-9273-78aefd0932b5",
+    "product_name": "Adjustable Treadmill",
+    "category": "Fitness",
+    "price": 164.84,
+    "quantity": 213
+  },
+  {
+    "product_id": "f662b317-f5e2-42d7-b904-af6b1e2e766e",
+    "product_name": "Bestselling Biography",
+    "category": "Books",
+    "price": 494.44,
+    "quantity": 346
+  },
+  {
+    "product_id": "1dfd1159-75b2-4e8f-8f92-ab730ee95989",
+    "product_name": "Premium Generic Product",
+    "category": "Office",
+    "price": 227.02,
+    "quantity": 224
+  },
+  {
+    "product_id": "12e12f08-47c0-4e2c-a94a-7d2d105b53dc",
+    "product_name": "Classic Generic Product",
+    "category": "Office",
+    "price": 133.17,
+    "quantity": 487
+  },
+  {
+    "product_id": "0069ede8-58e8-404e-8633-ea9430a0f2bf",
+    "product_name": "Classic Generic Product",
+    "category": "Automotive",
+    "price": 243.98,
+    "quantity": 191
+  },
+  {
+    "product_id": "6db9bb70-6d8a-43fe-968f-e28075a6e4be",
+    "product_name": "Silky Perfume",
+    "category": "Beauty",
+    "price": 482.39,
+    "quantity": 222
+  },
+  {
+    "product_id": "153c3306-698e-47c6-b0dc-8012dd2d0c9b",
+    "product_name": "Inspirational Mystery Novel",
+    "category": "Books",
+    "price": 56.56,
+    "quantity": 223
+  },
+  {
+    "product_id": "21e0015e-281b-4fa4-b15b-5a1198f6c677",
+    "product_name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 449.32,
+    "quantity": 91
+  },
+  {
+    "product_id": "4627c2ee-f123-4b1d-90c6-ea42aa78197d",
+    "product_name": "Premium Generic Product",
+    "category": "Music",
+    "price": 152.87,
+    "quantity": 258
+  },
+  {
+    "product_id": "e64aa39b-347e-4bcb-ad71-e7ba6f1cf34f",
+    "product_name": "Classic Generic Product",
+    "category": "Automotive",
+    "price": 490.46,
+    "quantity": 57
+  },
+  {
+    "product_id": "a0cda506-9487-496e-b214-5bc13c2265b2",
+    "product_name": "Durable Generic Product",
+    "category": "Automotive",
+    "price": 9.61,
+    "quantity": 176
+  },
+  {
+    "product_id": "ca5686f0-2224-4f64-8c77-6883638575e1",
+    "product_name": "Inspirational Cookbook",
+    "category": "Books",
+    "price": 237.42,
+    "quantity": 479
+  },
+  {
+    "product_id": "e9e7584b-e8d3-48a0-bde6-acf8ba5ba284",
+    "product_name": "Eco Generic Product",
+    "category": "Office",
+    "price": 229.28,
+    "quantity": 47
+  },
+  {
+    "product_id": "4cf75c38-ec78-49c0-a598-4fafae79225a",
+    "product_name": "Classic Generic Product",
+    "category": "Shoes",
+    "price": 228.02,
+    "quantity": 288
+  },
+  {
+    "product_id": "eb24b93e-f239-4a5a-8d9e-788f46cfcb41",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 444.6,
+    "quantity": 307
+  },
+  {
+    "product_id": "5c04c324-7207-4ce1-b36a-67ff7b8d13c1",
+    "product_name": "Classic Generic Product",
+    "category": "Toys",
+    "price": 439.16,
+    "quantity": 496
+  },
+  {
+    "product_id": "7c4f5b8c-d580-4fd3-b25c-a4563bfa94d7",
+    "product_name": "Thrilling Cookbook",
+    "category": "Books",
+    "price": 423.33,
+    "quantity": 302
+  },
+  {
+    "product_id": "a6ef8170-8bb1-40d4-9277-ec644fc4ae3b",
+    "product_name": "Eco Generic Product",
+    "category": "Grocery",
+    "price": 184.33,
+    "quantity": 28
+  },
+  {
+    "product_id": "589bed91-0ab6-40a0-88fc-f002a59ff561",
+    "product_name": "Portable Monitor",
+    "category": "Electronics",
+    "price": 445.95,
+    "quantity": 26
+  },
+  {
+    "product_id": "74bedcb7-7f54-49df-826e-3cb3e1083f68",
+    "product_name": "Durable Generic Product",
+    "category": "Home Decor",
+    "price": 373.48,
+    "quantity": 103
+  },
+  {
+    "product_id": "b335f670-7396-40b5-ac78-deba45cd7cc5",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 194.86,
+    "quantity": 260
+  },
+  {
+    "product_id": "2d056ffc-dfde-48a4-8e97-9c6187844fb5",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 132.17,
+    "quantity": 197
+  },
+  {
+    "product_id": "ab340ee4-dfeb-43c9-91f8-63785071fcb6",
+    "product_name": "Inspirational Self-Help Book",
+    "category": "Books",
+    "price": 18.87,
+    "quantity": 310
+  },
+  {
+    "product_id": "6799583d-aff4-426c-a001-73cb0157c2ef",
+    "product_name": "Thrilling Self-Help Book",
+    "category": "Books",
+    "price": 469.68,
+    "quantity": 21
+  },
+  {
+    "product_id": "d02a5024-d9a5-4c29-ab97-a0d4d7cb1871",
+    "product_name": "Premium Generic Product",
+    "category": "Home Decor",
+    "price": 339.39,
+    "quantity": 430
+  },
+  {
+    "product_id": "5df8047b-8c73-418a-be6b-876970775296",
+    "product_name": "Compact Generic Product",
+    "category": "Shoes",
+    "price": 126.44,
+    "quantity": 229
+  },
+  {
+    "product_id": "28c5e582-eb47-4ae2-85e5-f90c9f90f5d2",
+    "product_name": "Stylish Sneakers",
+    "category": "Clothing",
+    "price": 139.17,
+    "quantity": 183
+  },
+  {
+    "product_id": "dd948833-0313-4ffd-b639-2249eb7d08af",
+    "product_name": "Eco Generic Product",
+    "category": "Grocery",
+    "price": 56.1,
+    "quantity": 278
+  },
+  {
+    "product_id": "4b56f4ef-527a-463e-8dd8-c0613c9a0fcb",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 154.87,
+    "quantity": 101
+  },
+  {
+    "product_id": "7eebd526-9b90-4472-87a7-4308f5a4f39d",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 180.82,
+    "quantity": 334
+  },
+  {
+    "product_id": "9548c752-b04c-4437-ad28-579364bcc808",
+    "product_name": "Adjustable Dumbbells",
+    "category": "Fitness",
+    "price": 270.04,
+    "quantity": 67
+  },
+  {
+    "product_id": "d5d47f53-41fa-411f-a066-78a9d2824c83",
+    "product_name": "Eco Generic Product",
+    "category": "Music",
+    "price": 107.95,
+    "quantity": 308
+  },
+  {
+    "product_id": "8917d2c6-46ea-47d1-a802-5872d1f69e53",
+    "product_name": "Durable Generic Product",
+    "category": "Toys",
+    "price": 222.63,
+    "quantity": 90
+  },
+  {
+    "product_id": "e2de4a49-003d-4bca-9288-7ade2a33795d",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 120.2,
+    "quantity": 214
+  },
+  {
+    "product_id": "a0afec15-024a-4fbd-96e5-733c341bb4c5",
+    "product_name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "price": 28.15,
+    "quantity": 112
+  },
+  {
+    "product_id": "9af61e86-7802-4101-b339-387cef220098",
+    "product_name": "Eco Generic Product",
+    "category": "Grocery",
+    "price": 150.66,
+    "quantity": 148
+  },
+  {
+    "product_id": "435339f7-aa45-4c94-a5ae-4c7bd8f4a786",
+    "product_name": "Compact Generic Product",
+    "category": "Music",
+    "price": 498.71,
+    "quantity": 454
+  },
+  {
+    "product_id": "445b23c7-a612-484b-9824-f3d326d31fe1",
+    "product_name": "Portable Smartwatch",
+    "category": "Electronics",
+    "price": 419.52,
+    "quantity": 125
+  },
+  {
+    "product_id": "175db647-8050-497d-835a-6676fc5764ba",
+    "product_name": "Slim Fit Socks",
+    "category": "Clothing",
+    "price": 170.09,
+    "quantity": 434
+  },
+  {
+    "product_id": "6007839c-23e1-46b9-9564-04eae811de2a",
+    "product_name": "Silky Shampoo",
+    "category": "Beauty",
+    "price": 85.99,
+    "quantity": 370
+  },
+  {
+    "product_id": "c5a49b86-4d49-4d52-b3b1-25be1b80d5ff",
+    "product_name": "Silky Perfume",
+    "category": "Beauty",
+    "price": 49.04,
+    "quantity": 469
+  },
+  {
+    "product_id": "1b0943b9-9fd0-4021-9ec1-cd0fc48bb1ee",
+    "product_name": "Durable Generic Product",
+    "category": "Shoes",
+    "price": 284.03,
+    "quantity": 252
+  },
+  {
+    "product_id": "d288f8af-2b0b-4d93-a8fa-991d959b1dd8",
+    "product_name": "Smart Monitor",
+    "category": "Electronics",
+    "price": 18.04,
+    "quantity": 23
+  },
+  {
+    "product_id": "62115d35-dd55-4fad-b880-f40930aa41a1",
+    "product_name": "Adjustable Treadmill",
+    "category": "Fitness",
+    "price": 263.46,
+    "quantity": 492
+  },
+  {
+    "product_id": "ff1075ae-1193-49ae-87be-fe0c075726e4",
+    "product_name": "Durable Generic Product",
+    "category": "Toys",
+    "price": 461.83,
+    "quantity": 368
+  },
+  {
+    "product_id": "ddcc2851-88e9-497c-b10f-75dc99bed62b",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 251.23,
+    "quantity": 18
+  },
+  {
+    "product_id": "4e279e3d-7ed3-492c-9ede-008011056b3b",
+    "product_name": "Durable Generic Product",
+    "category": "Shoes",
+    "price": 400.97,
+    "quantity": 193
+  },
+  {
+    "product_id": "2c4f2fd2-6182-4faa-802a-ee8b67c346eb",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 122.69,
+    "quantity": 255
+  },
+  {
+    "product_id": "0a2ec186-dd47-4c28-99d1-8154b57c3c4c",
+    "product_name": "Soothing Face Cream",
+    "category": "Beauty",
+    "price": 373.43,
+    "quantity": 418
+  },
+  {
+    "product_id": "91d46352-699c-4659-bf13-6f46b0efa17a",
+    "product_name": "Natural Foundation",
+    "category": "Beauty",
+    "price": 491.05,
+    "quantity": 266
+  },
+  {
+    "product_id": "a8964476-6f90-44c6-acf2-74211da2c507",
+    "product_name": "Bluetooth Smartphone",
+    "category": "Electronics",
+    "price": 242.35,
+    "quantity": 362
+  },
+  {
+    "product_id": "deca9dd0-0407-4621-b37c-2cce8e8f645b",
+    "product_name": "Ergonomic Resistance Bands",
+    "category": "Fitness",
+    "price": 8.36,
+    "quantity": 27
+  },
+  {
+    "product_id": "a7deffa1-837d-45bd-96f9-c5785fc1543a",
+    "product_name": "Portable Headphones",
+    "category": "Electronics",
+    "price": 99.03,
+    "quantity": 29
+  },
+  {
+    "product_id": "a20b8b95-7b11-4ce4-9531-b0bf02c9996e",
+    "product_name": "Adjustable Treadmill",
+    "category": "Fitness",
+    "price": 102.99,
+    "quantity": 295
+  },
+  {
+    "product_id": "a55b867d-616f-4554-9ab7-3e0462929a49",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 124.76,
+    "quantity": 362
+  },
+  {
+    "product_id": "22512fe2-6256-4a80-84ee-9de516c44039",
+    "product_name": "Compact Generic Product",
+    "category": "Home Decor",
+    "price": 95.05,
+    "quantity": 374
+  },
+  {
+    "product_id": "93a621d3-f5af-4a90-a045-2fec5b7b087f",
+    "product_name": "Premium Generic Product",
+    "category": "Shoes",
+    "price": 498.0,
     "quantity": 40
   },
   {
-    "product_id": "P004",
-    "product_name": "USB-C Hub",
-    "category": "Accessories",
-    "price": 29.99,
-    "quantity": 120
+    "product_id": "0a6fc855-02c8-447f-9b36-8074dd2a682c",
+    "product_name": "Silky Lipstick",
+    "category": "Beauty",
+    "price": 387.13,
+    "quantity": 444
   },
   {
-    "product_id": "P005",
-    "product_name": "Webcam",
-    "category": "Electronics",
-    "price": 39.99,
+    "product_id": "2d46a420-25fa-46b0-a7eb-5ae06db91930",
+    "product_name": "Ergonomic Dumbbells",
+    "category": "Fitness",
+    "price": 324.47,
+    "quantity": 146
+  },
+  {
+    "product_id": "98523932-8b0c-4a3b-9155-f0511b391387",
+    "product_name": "Eco Generic Product",
+    "category": "Office",
+    "price": 412.43,
+    "quantity": 376
+  },
+  {
+    "product_id": "2b970fa8-d1b3-4094-b423-591bb1c76fa2",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 175.4,
+    "quantity": 288
+  },
+  {
+    "product_id": "d78ee07d-5591-40a7-a3b4-f1f519d3c9b4",
+    "product_name": "Classic Generic Product",
+    "category": "Automotive",
+    "price": 91.67,
+    "quantity": 449
+  },
+  {
+    "product_id": "17a2ad6e-ca55-4638-9be6-e944fab531b7",
+    "product_name": "Classic Generic Product",
+    "category": "Office",
+    "price": 237.78,
+    "quantity": 130
+  },
+  {
+    "product_id": "dac64e66-4c5e-4f0d-ab00-a487f3f5ebde",
+    "product_name": "Premium Generic Product",
+    "category": "Music",
+    "price": 442.23,
     "quantity": 60
   },
   {
-    "product_id": "P006",
-    "product_name": "Laptop Stand",
-    "category": "Accessories",
-    "price": 34.99,
-    "quantity": 70
+    "product_id": "17bf13b7-83e6-4a7d-bc3c-5c57fd78b122",
+    "product_name": "Compact Generic Product",
+    "category": "Shoes",
+    "price": 406.74,
+    "quantity": 340
   },
   {
-    "product_id": "P007",
-    "product_name": "Portable SSD",
-    "category": "Storage",
-    "price": 89.99,
-    "quantity": 45
+    "product_id": "49751170-25b9-4805-a223-5b986f33f4f8",
+    "product_name": "Inspirational Self-Help Book",
+    "category": "Books",
+    "price": 482.77,
+    "quantity": 498
   },
   {
-    "product_id": "P008",
-    "product_name": "Smartwatch",
-    "category": "Wearables",
-    "price": 129.99,
+    "product_id": "a8ab5b97-397d-4503-8fcb-4e363316f538",
+    "product_name": "Ergonomic Treadmill",
+    "category": "Fitness",
+    "price": 370.8,
+    "quantity": 228
+  },
+  {
+    "product_id": "8ad32cc9-afe5-4829-8f2c-a7fceb322214",
+    "product_name": "Durable Generic Product",
+    "category": "Home Decor",
+    "price": 179.5,
+    "quantity": 129
+  },
+  {
+    "product_id": "f0c82ce4-e2a5-4c17-a054-5496cd0f7e59",
+    "product_name": "Comfort Fit Sneakers",
+    "category": "Clothing",
+    "price": 299.47,
+    "quantity": 342
+  },
+  {
+    "product_id": "e8d4c145-10ca-4d57-9a8e-96800885af9b",
+    "product_name": "Wireless Smartwatch",
+    "category": "Electronics",
+    "price": 300.88,
+    "quantity": 142
+  },
+  {
+    "product_id": "f59a47b6-6604-49a5-9cef-cb2733e0d129",
+    "product_name": "Durable Generic Product",
+    "category": "Grocery",
+    "price": 70.18,
+    "quantity": 62
+  },
+  {
+    "product_id": "2bcb9520-6719-4124-9be3-c664a2a2d6f8",
+    "product_name": "Durable Generic Product",
+    "category": "Grocery",
+    "price": 250.23,
+    "quantity": 338
+  },
+  {
+    "product_id": "1af17a32-0570-4416-b55f-0bd9d1576f6f",
+    "product_name": "Slim Fit Jacket",
+    "category": "Clothing",
+    "price": 488.64,
+    "quantity": 359
+  },
+  {
+    "product_id": "81311c04-522f-4c2f-9021-24926f24be93",
+    "product_name": "Durable Generic Product",
+    "category": "Grocery",
+    "price": 302.26,
+    "quantity": 307
+  },
+  {
+    "product_id": "75f2c00d-b193-4574-8450-864225ea45af",
+    "product_name": "Durable Generic Product",
+    "category": "Home Decor",
+    "price": 151.42,
+    "quantity": 423
+  },
+  {
+    "product_id": "aa2af892-da73-4e30-bd83-3fc483a2608b",
+    "product_name": "Adjustable Treadmill",
+    "category": "Fitness",
+    "price": 39.48,
+    "quantity": 387
+  },
+  {
+    "product_id": "fe53edfa-9e65-4c4c-a0aa-af82cf5a0d32",
+    "product_name": "Inspirational Travel Guide",
+    "category": "Books",
+    "price": 177.64,
+    "quantity": 10
+  },
+  {
+    "product_id": "d6c7a27c-08cf-4f89-bcfe-cb7cd72e59c4",
+    "product_name": "Classic Generic Product",
+    "category": "Music",
+    "price": 136.03,
+    "quantity": 485
+  },
+  {
+    "product_id": "17292740-9da4-4f27-8051-3c740c8ba842",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 374.01,
+    "quantity": 177
+  },
+  {
+    "product_id": "14405399-c9a4-4b3b-9792-b3472323fef0",
+    "product_name": "Natural Nail Polish",
+    "category": "Beauty",
+    "price": 435.65,
+    "quantity": 451
+  },
+  {
+    "product_id": "7559e960-9077-4e20-8062-f3980b6ededc",
+    "product_name": "Natural Perfume",
+    "category": "Beauty",
+    "price": 397.81,
+    "quantity": 484
+  },
+  {
+    "product_id": "e0f64b4d-95a7-44f5-b888-e75418b2fe0a",
+    "product_name": "Classic Generic Product",
+    "category": "Shoes",
+    "price": 384.65,
+    "quantity": 375
+  },
+  {
+    "product_id": "c818cafe-3ea4-4a28-866a-e0539d83eb33",
+    "product_name": "Eco Generic Product",
+    "category": "Toys",
+    "price": 309.81,
+    "quantity": 360
+  },
+  {
+    "product_id": "a4b4ec3a-c1df-4236-8e88-3745570b0ae6",
+    "product_name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 237.72,
+    "quantity": 87
+  },
+  {
+    "product_id": "d9055f17-da4a-4241-aa3c-4eb6e410e7b4",
+    "product_name": "Classic Generic Product",
+    "category": "Toys",
+    "price": 30.4,
+    "quantity": 129
+  },
+  {
+    "product_id": "fdae104d-08f4-4082-8332-de117f8d0e47",
+    "product_name": "Bluetooth Camera",
+    "category": "Electronics",
+    "price": 111.63,
+    "quantity": 396
+  },
+  {
+    "product_id": "18b57c89-53e3-461e-8b12-584c833f25c8",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 408.21,
+    "quantity": 276
+  },
+  {
+    "product_id": "13c89d5a-3fd3-4caa-a526-e57df1b8dc0d",
+    "product_name": "Classic Generic Product",
+    "category": "Grocery",
+    "price": 195.8,
+    "quantity": 479
+  },
+  {
+    "product_id": "f4d500b4-45d8-41e0-850f-7d58cb4811c3",
+    "product_name": "Compact Generic Product",
+    "category": "Automotive",
+    "price": 320.69,
+    "quantity": 282
+  },
+  {
+    "product_id": "5ae44f6c-3a49-4b43-bacf-1f5c30551692",
+    "product_name": "Natural Nail Polish",
+    "category": "Beauty",
+    "price": 344.87,
+    "quantity": 155
+  },
+  {
+    "product_id": "d5334b09-ae0d-4719-b2a4-8c6d02c611fe",
+    "product_name": "Wireless Smartphone",
+    "category": "Electronics",
+    "price": 332.93,
+    "quantity": 314
+  },
+  {
+    "product_id": "f882c8c0-ccb3-42ff-91bc-6775d4d1f4b9",
+    "product_name": "Smart Headphones",
+    "category": "Electronics",
+    "price": 166.73,
+    "quantity": 84
+  },
+  {
+    "product_id": "f8eadf68-4169-4e55-83fb-ee35cfa0ec8d",
+    "product_name": "Classic Generic Product",
+    "category": "Shoes",
+    "price": 152.31,
     "quantity": 30
   },
   {
-    "product_id": "P009",
-    "product_name": "Monitor 24\"",
-    "category": "Electronics",
-    "price": 159.99,
-    "quantity": 20
+    "product_id": "744cc837-0f8d-4f08-b6c5-de2ad6f7baef",
+    "product_name": "Heavy-duty Treadmill",
+    "category": "Fitness",
+    "price": 408.17,
+    "quantity": 194
   },
   {
-    "product_id": "P010",
-    "product_name": "Mechanical Pencil",
-    "category": "Stationery",
-    "price": 2.99,
-    "quantity": 500
+    "product_id": "c1775446-d2f2-4931-92c7-e4a2553562e5",
+    "product_name": "Eco Generic Product",
+    "category": "Automotive",
+    "price": 179.21,
+    "quantity": 317
+  },
+  {
+    "product_id": "bcf3e1c6-5a60-425b-b948-2ba35ff4daff",
+    "product_name": "Casual Jeans",
+    "category": "Clothing",
+    "price": 112.34,
+    "quantity": 11
+  },
+  {
+    "product_id": "83c671d9-f74f-4e54-a366-7f43cbcbd0a8",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 60.23,
+    "quantity": 469
+  },
+  {
+    "product_id": "a8a00534-7a5b-400e-895b-30320020cc86",
+    "product_name": "Classic Generic Product",
+    "category": "Grocery",
+    "price": 98.95,
+    "quantity": 380
+  },
+  {
+    "product_id": "20ebc5e4-f74e-432e-a456-283e8a582b16",
+    "product_name": "Compact Generic Product",
+    "category": "Grocery",
+    "price": 376.68,
+    "quantity": 414
+  },
+  {
+    "product_id": "5d4fa5a9-3f45-4182-9f0c-e0eb97725816",
+    "product_name": "Casual Socks",
+    "category": "Clothing",
+    "price": 496.23,
+    "quantity": 222
+  },
+  {
+    "product_id": "0e29d6ff-ed6a-4e6d-99b5-8bc0b927d3fa",
+    "product_name": "Stylish T-Shirt",
+    "category": "Clothing",
+    "price": 311.57,
+    "quantity": 59
+  },
+  {
+    "product_id": "3f470e74-5628-4da3-a836-9a684ff27509",
+    "product_name": "Casual Jacket",
+    "category": "Clothing",
+    "price": 434.91,
+    "quantity": 110
+  },
+  {
+    "product_id": "9141352f-eb3e-48f3-9414-9868b47b3c8b",
+    "product_name": "Soothing Nail Polish",
+    "category": "Beauty",
+    "price": 400.79,
+    "quantity": 419
+  },
+  {
+    "product_id": "366dc667-3940-4758-9654-72792b5dfa2d",
+    "product_name": "Classic Generic Product",
+    "category": "Office",
+    "price": 232.13,
+    "quantity": 182
+  },
+  {
+    "product_id": "bb6a0a1f-2178-448b-a2c3-76410920295b",
+    "product_name": "Soothing Lipstick",
+    "category": "Beauty",
+    "price": 42.38,
+    "quantity": 27
+  },
+  {
+    "product_id": "55cd7761-758b-4c2a-87a7-600665531d12",
+    "product_name": "Ergonomic Resistance Bands",
+    "category": "Fitness",
+    "price": 309.12,
+    "quantity": 325
+  },
+  {
+    "product_id": "6cff0448-3c28-4558-8e32-9b575b27a7b1",
+    "product_name": "Inspirational Biography",
+    "category": "Books",
+    "price": 122.76,
+    "quantity": 478
+  },
+  {
+    "product_id": "a4c2ebda-0612-4d70-a4c6-b8b6e0a73301",
+    "product_name": "Natural Foundation",
+    "category": "Beauty",
+    "price": 170.53,
+    "quantity": 174
+  },
+  {
+    "product_id": "66499d6f-221d-4add-ac9e-3fb2c99d6e6e",
+    "product_name": "Eco Generic Product",
+    "category": "Music",
+    "price": 250.21,
+    "quantity": 412
+  },
+  {
+    "product_id": "9ee7c938-d431-420d-b6f5-d37841144f2d",
+    "product_name": "Inspirational Mystery Novel",
+    "category": "Books",
+    "price": 351.25,
+    "quantity": 156
+  },
+  {
+    "product_id": "75a32cc8-dac7-481a-819d-b580fc61e181",
+    "product_name": "Natural Lipstick",
+    "category": "Beauty",
+    "price": 158.14,
+    "quantity": 243
+  },
+  {
+    "product_id": "a8b6565c-7a43-44dc-9634-25eb38a6d371",
+    "product_name": "Slim Fit Sneakers",
+    "category": "Clothing",
+    "price": 67.02,
+    "quantity": 434
+  },
+  {
+    "product_id": "2d4e7c68-3f20-4647-85ed-c6a4bead5af1",
+    "product_name": "Smart Camera",
+    "category": "Electronics",
+    "price": 17.19,
+    "quantity": 178
+  },
+  {
+    "product_id": "bd06222f-e4e4-4035-86f6-fd2e5ee72216",
+    "product_name": "Stylish Socks",
+    "category": "Clothing",
+    "price": 92.08,
+    "quantity": 316
+  },
+  {
+    "product_id": "b0daa27d-6428-4a7c-bb08-2f3a126e6789",
+    "product_name": "Bluetooth Monitor",
+    "category": "Electronics",
+    "price": 230.14,
+    "quantity": 128
+  },
+  {
+    "product_id": "1969eeb8-c961-480b-9d11-ed3d3d88aa5c",
+    "product_name": "Classic Generic Product",
+    "category": "Music",
+    "price": 120.33,
+    "quantity": 61
+  },
+  {
+    "product_id": "2dc96a2c-3384-463e-a718-acc991c25fa6",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 475.06,
+    "quantity": 71
+  },
+  {
+    "product_id": "96d63571-bb81-433d-ba62-7125d8430811",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 136.65,
+    "quantity": 397
+  },
+  {
+    "product_id": "e3a4308e-16b4-4168-aaff-42ac8eff65ba",
+    "product_name": "Premium Generic Product",
+    "category": "Home Decor",
+    "price": 81.57,
+    "quantity": 475
+  },
+  {
+    "product_id": "74e584d6-b02d-4cf0-8bfd-a7c9f91e3256",
+    "product_name": "Smart Headphones",
+    "category": "Electronics",
+    "price": 385.79,
+    "quantity": 348
+  },
+  {
+    "product_id": "35c1a162-ec1f-46a8-a2f3-36b657a215ea",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 159.39,
+    "quantity": 214
+  },
+  {
+    "product_id": "818c5bc3-3950-4523-a556-2e69dced5daf",
+    "product_name": "Classic Generic Product",
+    "category": "Toys",
+    "price": 229.36,
+    "quantity": 326
+  },
+  {
+    "product_id": "f9b74e5e-2f3d-4466-bda0-cc5f21ef7320",
+    "product_name": "Bestselling Biography",
+    "category": "Books",
+    "price": 269.02,
+    "quantity": 90
+  },
+  {
+    "product_id": "d25ae8f6-c7ad-4e9d-aa68-79aae33f902f",
+    "product_name": "Bluetooth Camera",
+    "category": "Electronics",
+    "price": 345.71,
+    "quantity": 393
+  },
+  {
+    "product_id": "eff2d016-502b-4672-960a-79e3bef1f98e",
+    "product_name": "Slim Fit Jacket",
+    "category": "Clothing",
+    "price": 308.78,
+    "quantity": 193
+  },
+  {
+    "product_id": "22d069d5-a0ab-43f9-a034-506ff50fb045",
+    "product_name": "Smart Smartphone",
+    "category": "Electronics",
+    "price": 47.8,
+    "quantity": 241
+  },
+  {
+    "product_id": "5fe39427-c7af-4cbc-a319-7c9dbc79f3e7",
+    "product_name": "Eco Generic Product",
+    "category": "Music",
+    "price": 110.45,
+    "quantity": 232
+  },
+  {
+    "product_id": "dc11d933-6c81-4a36-b6f8-a806063937c9",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 125.15,
+    "quantity": 326
+  },
+  {
+    "product_id": "76322949-35cc-4bcd-a0ab-b242c8716673",
+    "product_name": "Eco Generic Product",
+    "category": "Office",
+    "price": 430.51,
+    "quantity": 122
+  },
+  {
+    "product_id": "e3287fba-bb1e-46f5-b9cd-2df7051f7ef5",
+    "product_name": "Durable Generic Product",
+    "category": "Shoes",
+    "price": 383.88,
+    "quantity": 63
+  },
+  {
+    "product_id": "b09228ae-00f8-44f7-b268-bf5255fa6380",
+    "product_name": "Durable Generic Product",
+    "category": "Music",
+    "price": 290.69,
+    "quantity": 400
+  },
+  {
+    "product_id": "d7f9b8e2-6047-48ca-a976-213f9d3c70b1",
+    "product_name": "Premium Generic Product",
+    "category": "Grocery",
+    "price": 106.2,
+    "quantity": 36
+  },
+  {
+    "product_id": "0d5d4bbc-07c4-40aa-8ba7-76bbd4643859",
+    "product_name": "Classic Generic Product",
+    "category": "Toys",
+    "price": 409.09,
+    "quantity": 333
+  },
+  {
+    "product_id": "574ed457-7d3a-48e0-bff8-0dbeab0663b5",
+    "product_name": "Classic Generic Product",
+    "category": "Automotive",
+    "price": 432.62,
+    "quantity": 395
+  },
+  {
+    "product_id": "8454c3fe-6597-4af6-9a5f-7f4578a4b1f6",
+    "product_name": "Compact Generic Product",
+    "category": "Shoes",
+    "price": 137.93,
+    "quantity": 236
+  },
+  {
+    "product_id": "bcc0c01b-7b99-420d-a79a-a5695186b6c2",
+    "product_name": "Casual Sneakers",
+    "category": "Clothing",
+    "price": 480.16,
+    "quantity": 491
+  },
+  {
+    "product_id": "d8643c52-bcb5-4fe6-b5d1-f9ccdf8781ff",
+    "product_name": "Classic Generic Product",
+    "category": "Music",
+    "price": 498.61,
+    "quantity": 209
+  },
+  {
+    "product_id": "cd885344-24e3-4163-afdb-22c2b18452b4",
+    "product_name": "Thrilling Biography",
+    "category": "Books",
+    "price": 272.12,
+    "quantity": 375
+  },
+  {
+    "product_id": "eb3ab52f-2b87-4bbd-a5f6-1ac16a74b11d",
+    "product_name": "Heavy-duty Yoga Mat",
+    "category": "Fitness",
+    "price": 339.76,
+    "quantity": 388
+  },
+  {
+    "product_id": "b7a33ff7-ae7f-41ba-9038-bd892dd90943",
+    "product_name": "Inspirational Mystery Novel",
+    "category": "Books",
+    "price": 205.09,
+    "quantity": 265
+  },
+  {
+    "product_id": "e2888b4d-ea31-4ed7-b517-73da4223accc",
+    "product_name": "Inspirational Mystery Novel",
+    "category": "Books",
+    "price": 467.37,
+    "quantity": 91
+  },
+  {
+    "product_id": "0837602e-bf31-4318-bac1-cca79b28353e",
+    "product_name": "Smart Smartwatch",
+    "category": "Electronics",
+    "price": 26.24,
+    "quantity": 367
+  },
+  {
+    "product_id": "79ebcada-38ef-4cf9-8be2-fb5591f906e3",
+    "product_name": "Premium Generic Product",
+    "category": "Shoes",
+    "price": 340.86,
+    "quantity": 279
+  },
+  {
+    "product_id": "9bf61184-cc7e-4b20-a243-69d98e2420f7",
+    "product_name": "Bestselling Cookbook",
+    "category": "Books",
+    "price": 477.56,
+    "quantity": 443
+  },
+  {
+    "product_id": "15e709af-f96f-4bf8-8f07-7382c5078ddc",
+    "product_name": "Durable Generic Product",
+    "category": "Office",
+    "price": 485.96,
+    "quantity": 51
+  },
+  {
+    "product_id": "102cc10a-d1b1-4c36-9dc9-afa91c8e09e3",
+    "product_name": "Eco Generic Product",
+    "category": "Automotive",
+    "price": 142.74,
+    "quantity": 12
+  },
+  {
+    "product_id": "6b3f077b-883c-4591-a8e5-8d16fd5eae28",
+    "product_name": "Ergonomic Dumbbells",
+    "category": "Fitness",
+    "price": 66.83,
+    "quantity": 400
+  },
+  {
+    "product_id": "45fc22dc-6b63-4c0d-9c6d-ff6bd28ca4d0",
+    "product_name": "Classic Generic Product",
+    "category": "Home Decor",
+    "price": 262.21,
+    "quantity": 278
+  },
+  {
+    "product_id": "e4d60221-9c4f-496a-a674-0004cb6ee12e",
+    "product_name": "Ergonomic Treadmill",
+    "category": "Fitness",
+    "price": 122.76,
+    "quantity": 457
+  },
+  {
+    "product_id": "5c794522-c345-40f7-9ee3-3b631b95e217",
+    "product_name": "Slim Fit Hoodie",
+    "category": "Clothing",
+    "price": 54.78,
+    "quantity": 82
+  },
+  {
+    "product_id": "bccfc0cc-cdda-4c91-b7ff-827664199d2d",
+    "product_name": "Eco Generic Product",
+    "category": "Automotive",
+    "price": 377.05,
+    "quantity": 351
+  },
+  {
+    "product_id": "948fc498-a299-40fc-98e2-bcae6912cc91",
+    "product_name": "Eco Generic Product",
+    "category": "Music",
+    "price": 122.26,
+    "quantity": 341
+  },
+  {
+    "product_id": "3d812b10-6342-4574-93cd-554a8c7890c6",
+    "product_name": "Adjustable Yoga Mat",
+    "category": "Fitness",
+    "price": 203.24,
+    "quantity": 370
+  },
+  {
+    "product_id": "ded2ce6a-3a94-405e-b86e-ae2b4e95470b",
+    "product_name": "Eco Generic Product",
+    "category": "Music",
+    "price": 57.57,
+    "quantity": 226
+  },
+  {
+    "product_id": "23aef508-d6c9-423c-89cc-2763f98e5d0c",
+    "product_name": "Compact Generic Product",
+    "category": "Home Decor",
+    "price": 46.84,
+    "quantity": 201
+  },
+  {
+    "product_id": "582709a0-3e90-4929-9bb3-7f655ee71c0f",
+    "product_name": "Eco Generic Product",
+    "category": "Shoes",
+    "price": 449.17,
+    "quantity": 443
+  },
+  {
+    "product_id": "9aeccc86-84a5-4265-976f-139f2c0b9f21",
+    "product_name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 264.94,
+    "quantity": 449
+  },
+  {
+    "product_id": "4d122140-c98b-436c-8290-1a77a6022c77",
+    "product_name": "Inspirational Biography",
+    "category": "Books",
+    "price": 88.26,
+    "quantity": 127
+  },
+  {
+    "product_id": "d61afbfa-ab49-4b6d-9710-16dc2c8ec367",
+    "product_name": "Smart Headphones",
+    "category": "Electronics",
+    "price": 348.62,
+    "quantity": 266
+  },
+  {
+    "product_id": "e02db38d-32dc-4204-bb35-c8fa2c479eec",
+    "product_name": "Eco Generic Product",
+    "category": "Grocery",
+    "price": 297.25,
+    "quantity": 468
+  },
+  {
+    "product_id": "81c941ea-a934-49a7-8c14-8d0caca8fcff",
+    "product_name": "Inspirational Cookbook",
+    "category": "Books",
+    "price": 390.75,
+    "quantity": 328
+  },
+  {
+    "product_id": "00c10a6b-a650-4b31-8e23-2d17938708b2",
+    "product_name": "Durable Generic Product",
+    "category": "Grocery",
+    "price": 200.06,
+    "quantity": 435
+  },
+  {
+    "product_id": "db57652e-4d6d-4022-ace0-bd9e6548739c",
+    "product_name": "Premium Generic Product",
+    "category": "Office",
+    "price": 124.83,
+    "quantity": 365
+  },
+  {
+    "product_id": "191fcacf-abf3-4c50-92d1-4b1857fc404c",
+    "product_name": "Premium Generic Product",
+    "category": "Toys",
+    "price": 155.9,
+    "quantity": 27
   }
 ]
-

@@ -10,62 +10,62 @@ CREATE OR REPLACE TABLE RETAIL_LANDING.LND_PRODUCTS (
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_CUSTOMERS (
-    customer_id STRING,
-    first_name STRING,
-    last_name STRING,
-    email STRING,
-    phone STRING,
-    address STRING,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "customer_id" STRING,
+    "first_name" STRING,
+    "last_name" STRING,
+    "email" STRING,
+    "phone" STRING,
+    "address" STRING,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_ORDERS (
-    order_id STRING,
-    customer_id STRING,
-    order_date DATE,
-    store_id STRING,
-    employee_id STRING,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "order_id" STRING,
+    "customer_id" STRING,
+    "order_date" DATE,
+    "store_id" STRING,
+    "employee_id" STRING,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_ORDER_ITEMS (
-    order_item_id STRING,
-    order_id STRING,
-    product_id STRING,
-    quantity INT,
-    price FLOAT,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "order_item_id" STRING,
+    "order_id" STRING,
+    "product_id" STRING,
+    "quantity" INT,
+    "price" FLOAT,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_CATEGORIES (
-    category_id STRING,
-    category_name STRING,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "category_id" STRING,
+    "category_name" STRING,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_STORES (
-    store_id STRING,
-    store_name STRING,
-    location STRING,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "store_id" STRING,
+    "store_name" STRING,
+    "location" STRING,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_EMPLOYEES (
-    employee_id STRING,
-    first_name STRING,
-    last_name STRING,
-    title STRING,
-    store_id STRING,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "employee_id" STRING,
+    "first_name" STRING,
+    "last_name" STRING,
+    "title" STRING,
+    "store_id" STRING",
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_LANDING.LND_INVENTORY (
-    inventory_id STRING,
-    product_id STRING,
-    store_id STRING,
-    stock_quantity INT,
-    last_updated DATE,
-    ingest_ts TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
+    "inventory_id" STRING,
+    "product_id" STRING,
+    "store_id" STRING,
+    "stock_quantity" INT,
+    "last_updated" DATE,
+    "ingest_ts" TIMESTAMP DEFAULT CURRENT_TIMESTAMP()
 );
 
 CREATE OR REPLACE TABLE RETAIL_TARGET.SALES_ANALYTICS (

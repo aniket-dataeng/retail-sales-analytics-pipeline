@@ -6,15 +6,25 @@ from snowflake.connector.pandas_tools import write_pandas
 
 class BaseLoader:
     def __init__(self):
-        print("Initialized parent")
+        None
 
-    def load_file(self, data_file, schema_file):
+    def load_file(self, data_file, schema_file, file_type):
         self.data_file = data_file
         self.schema_file = schema_file
+        self.file_type = file_type
 
-        json_data = pd.read_json(self.data_file)
-        df = pd.DataFrame(json_data)
-        
+        if file_type == "json":
+            data = pd.read_json(self.data_file)
+            df = pd.DataFrame(data)
+        elif file_type == "csv":
+            data = pd.read_csv(self.data_file)
+            df = pd.DataFrame(data)
+        elif file_type == "xml":
+            data = pd.read_xml(self.data_file)
+            df = pd.DataFrame(data)
+        else:
+            print("error")
+            
         with open(self.schema_file, 'r') as f:
             schema = json.load(f)
             
@@ -38,5 +48,5 @@ class BaseLoader:
             schema=schema  
         )
 
-        print(f"{success}, {nrows} loaded into table")
+        print(f"{success}, {nrows} loaded into table {self.table}")
         
