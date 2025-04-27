@@ -51,7 +51,8 @@ retail-sales-analytics-pipeline/
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
 ```
-
+# Streamlit App Demo
+![image](https://github.com/user-attachments/assets/ce20fbe6-ba16-4675-b614-faf0e9aa4a0c)
 
 # Getting Started
 **Prerequisites**
